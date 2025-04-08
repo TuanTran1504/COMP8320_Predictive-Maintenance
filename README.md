@@ -8,7 +8,7 @@ the goal of predicting failure occurrences or forecasting the health degradation
 this data we can train model to detect anomalies as well as unbalance detection on rotating 
 shaft 
 
-**Anomaly Detection using One-class Autoencoder **  
+**Anomaly Detection using One-class Autoencoder**  
 
 An autoencoder, which is a type of neural network, is designed to encode input data into a 
 smaller dimensional form and then decode it back to its original format. The training process 
@@ -35,9 +35,11 @@ effectively capture the underlying patterns and correctly classify the labels (7
 This situation underscores the challenge of applying such techniques in real-life scenarios 
 with enormous datasets, where substantial resources are required. Utilizing cloud computing 
 could greatly enhance the ability to process and analyze such large-scale data more 
-efficiently.
+efficiently.  
 
-<img width="215" alt="image" src="https://github.com/user-attachments/assets/adddb047-a445-4bac-8f3a-314ef413beb0" />
+
+<img width="215" alt="image" src="https://github.com/user-attachments/assets/adddb047-a445-4bac-8f3a-314ef413beb0" />  
+
 
 
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/21b3a47b-349d-4a27-aa3a-30eb71fe8b22" />
