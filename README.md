@@ -8,7 +8,8 @@ the goal of predicting failure occurrences or forecasting the health degradation
 this data we can train model to detect anomalies as well as unbalance detection on rotating 
 shaft 
 
-**Anomaly Detection using One-class Autoencoder **
+**Anomaly Detection using One-class Autoencoder **  
+
 An autoencoder, which is a type of neural network, is designed to encode input data into a 
 smaller dimensional form and then decode it back to its original format. The training process 
 of One-class Autoencoder involves only non-failure or "normal" operational data. The 
@@ -25,7 +26,8 @@ model might misidentify them as anomalies if it lacks good generalization capabi
 
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/0e030f9f-5fbf-478d-9471-a72c25db146e" />
 
-**Unbalance Detection using MLP**
+**Unbalance Detection using MLP**  
+
 The dataset comprises vibration readings from three sensors mounted on a rotating shaft, 
 along with five distinct levels of unbalance introduced by adding a weight to one side. 
 However, due to the massive volume of data—25 million entries—the model struggled to 
