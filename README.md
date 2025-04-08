@@ -7,6 +7,7 @@ Maintenance Dataset and Unbalance Detection of a Rotating Shaft Using Vibration 
 the goal of predicting failure occurrences or forecasting the health degradation of assets. With 
 this data we can train model to detect anomalies as well as unbalance detection on rotating 
 shaft 
+
 **Anomaly Detection using One-class Autoencoder **
 An autoencoder, which is a type of neural network, is designed to encode input data into a 
 smaller dimensional form and then decode it back to its original format. The training process 
